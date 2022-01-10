@@ -1,4 +1,4 @@
-# Enrichment Explorations 10: WEB DEVELOPMENT
+# Enrichment Explorations 10: Web Development
 Link to [my project](https://nicolechung.netlify.com).
 
 ## Enrichment Explorations (ENEX)
